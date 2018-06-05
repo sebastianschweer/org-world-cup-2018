@@ -1,0 +1,223 @@
+#+TITLE: 2018 FIFA World Cup
+#+CATEGORY: Football
+
+#+HEADERS: :var n=-2
+#+begin_src emacs-lisp :results silent
+(save-excursion
+  (goto-char (point-min))
+  (while (re-search-forward "[[<]" nil t)
+    (when (org-at-timestamp-p t)
+      (org-timestamp-change n 'hour))))
+#+end_src
+
+* Group A                                                            :GroupA:
+Russia, Saudi Arabia, Egypt, Uruguay
+**  1. Russia           - Saudi Arabia       
+    <2018-06-14 18:00> 
+    Luzhniki Stadium, Moscow 
+**  2. Egypt            - Uruguay            
+    <2018-06-15 15:00> 
+    Ekaterinburg Stadium     
+** 17. Russia           - Egypt              
+    <2018-06-19 21:00> 
+    Saint Petersburg Stadium 
+** 18. Uruguay          - Saudi Arabia       
+    <2018-06-20 18:00> 
+    Rostov-on-Don Stadium    
+** 33. Uruguay          - Russia             
+    <2018-06-25 17:00> 
+    Samara Stadium           
+** 34. Saudi Arabia     - Egypt              
+    <2018-06-25 17:00> 
+    Volgograd Stadium        
+* Group B                                                            :GroupB:
+Morocco, Iran, Portugal, Spain
+**  3. Morocco          - Iran               
+    <2018-06-15 18:00> 
+    Saint Petersburg Stadium 
+**  4. Portugal         - Spain              
+    <2018-06-15 21:00> 
+    Fisht Stadium, Sochi     
+** 19. Portugal         - Morocco            
+    <2018-06-20 15:00> 
+    Luzhniki Stadium, Moscow 
+** 20. Iran             - Spain              
+    <2018-06-20 21:00> 
+    Kazan Arena              
+** 35. Iran             - Portugal           
+    <2018-06-25 21:00> 
+    Saransk Stadium          
+** 36. Spain            - Morocco            
+    <2018-06-25 21:00> 
+    Kaliningrad Stadium      
+* Group C                                                            :GroupC:
+France, Australia, Peru, Denmark
+**  5. France           - Australia          
+    <2018-06-16 13:00> 
+    Kazan Arena              
+**  6. Peru             - Denmark            
+    <2018-06-16 19:00> 
+    Saransk Stadium          
+** 22. Denmark          - Australia          
+    <2018-06-21 15:00> 
+    Samara Stadium           
+** 21. France           - Peru               
+    <2018-06-21 18:00> 
+    Ekaterinburg Stadium     
+** 37. Denmark          - France             
+    <2018-06-26 17:00> 
+    Luzhniki Stadium, Moscow 
+** 38. Australia        - Peru               
+    <2018-06-26 17:00> 
+    Fisht Stadium, Sochi     
+* Group D                                                            :GroupD:
+Argentina, Iceland, Croatia, Nigeria
+**  7. Argentina        - Iceland            
+    <2018-06-16 16:00> 
+    Otkrytiye Arena, Moscow  
+**  8. Croatia          - Nigeria            
+    <2018-06-16 22:00> 
+    Kaliningrad Stadium      
+** 23. Argentina        - Croatia            
+    <2018-06-21 21:00> 
+    Nizhny Novgorod Stadium  
+** 24. Nigeria          - Iceland            
+    <2018-06-22 18:00> 
+    Volgograd Stadium        
+** 39. Nigeria          - Argentina          
+    <2018-06-26 21:00> 
+    Saint Petersburg Stadium 
+** 40. Iceland          - Croatia            
+    <2018-06-26 21:00> 
+    Rostov-on-Don Stadium    
+* Group E                                                            :GroupE:
+Costa Rica, Serbia, Brazil, Switzerland
+** 10. Costa Rica       - Serbia             
+    <2018-06-17 15:00> 
+    Samara Stadium           
+**  9. Brazil           - Switzerland        
+    <2018-06-17 21:00> 
+    Rostov-on-Don Stadium    
+** 25. Brazil           - Costa Rica         
+    <2018-06-22 15:00> 
+    Saint Petersburg Stadium 
+** 26. Serbia           - Switzerland        
+    <2018-06-22 21:00> 
+    Kaliningrad Stadium      
+** 41. Serbia           - Brazil             
+    <2018-06-27 21:00> 
+    Otkrytiye Arena, Moscow  
+** 42. Switzerland      - Costa Rica         
+    <2018-06-27 21:00> 
+    Nizhny Novgorod Stadium  
+* Group F                                                            :GroupF:
+** 11. Germany          - Mexico             
+    <2018-06-17 18:00> 
+    Luzhniki Stadium, Moscow 
+** 12. Sweden           - Korea Republic     
+    <2018-06-18 15:00> 
+    Nizhny Novgorod Stadium  
+** 28. Korea Republic   - Mexico             
+    <2018-06-23 18:00> 
+    Rostov-on-Don Stadium    
+** 27. Germany          - Sweden             
+    <2018-06-23 21:00> 
+    Fisht Stadium, Sochi     
+** 44. Mexico           - Sweden             
+    <2018-06-27 17:00> 
+    Ekaterinburg Stadium     
+** 43. Korea Republic   - Germany            
+    <2018-06-27 17:00> 
+    Kazan Arena              
+* Group G                                                            :GroupE:
+Belgium, Panama, Tunisia, England
+** 13. Belgium          - Panama             
+    <2018-06-18 18:00> 
+    Fisht Stadium, Sochi     
+** 14. Tunisia          - England            
+    <2018-06-18 21:00> 
+    Volgograd Stadium        
+** 29. Belgium          - Tunisia            
+    <2018-06-23 15:00> 
+    Otkrytiye Arena, Moscow  
+** 30. England          - Panama             
+    <2018-06-24 15:00> 
+    Nizhny Novgorod Stadium  
+** 46. Panama           - Tunisia            
+    <2018-06-28 21:00> 
+    Saransk Stadium          
+** 45. England          - Belgium            
+    <2018-06-28 21:00> 
+    Kaliningrad Stadium      
+* Group H                                                            :GroupH:
+** 16. Colombia         - Japan              
+    <2018-06-19 15:00> 
+    Saransk Stadium          
+** 15. Poland           - Senegal            
+    <2018-06-19 18:00> 
+    Otkrytiye Arena, Moscow  
+** 32. Japan            - Senegal            
+    <2018-06-24 18:00> 
+    Ekaterinburg Stadium     
+** 31. Poland           - Colombia           
+    <2018-06-24 21:00> 
+    Kazan Arena              
+** 47. Japan            - Poland             
+    <2018-06-28 17:00> 
+    Volgograd Stadium        
+** 48. Senegal          - Colombia           
+    <2018-06-28 17:00> 
+    Samara Stadium           
+* Round of 16                                                     :Roundof16:
+** 50. Winner Group C   - Runner-up Group D  
+    <2018-06-30 17:00> 
+    Kazan Arena              
+** 49. Winner Group A   - Runner-up Group B  
+    <2018-06-30 21:00> 
+    Fisht Stadium, Sochi     
+** 51. Winner Group B   - Runner-up Group A  
+    <2018-07-01 17:00> 
+    Luzhniki Stadium, Moscow 
+** 52. Winner Group D   - Runner-up Group C  
+    <2018-07-01 21:00> 
+    Nizhny Novgorod Stadium  
+** 53. Winner Group E   - Runner-up Group F  
+    <2018-07-02 17:00> 
+    Samara Stadium           
+** 54. Winner Group G   - Runner-up Group H  
+    <2018-07-02 21:00> 
+    Rostov-on-Don Stadium    
+** 55. Winner Group F   - Runner-up Group E  
+    <2018-07-03 17:00> 
+    Saint Petersburg Stadium 
+** 56. Winner Group H   - Runner-up Group G  
+    <2018-07-03 21:00> 
+    Otkrytiye Arena, Moscow  
+* Quarter Finals                                              :QuarterFinals:
+** 57. Winner Match 49  - Winner Match 50    
+    <2018-07-06 17:00> 
+    Nizhny Novgorod Stadium  
+** 58. Winner Match 53  - Winner Match 54    
+    <2018-07-06 21:00> 
+    Kazan Arena              
+** 60. Winner Match 55  - Winner Match 56    
+    <2018-07-07 17:00> 
+    Samara Stadium           
+** 59. Winner Match 51  - Winner Match 52    
+    <2018-07-07 21:00> 
+    Fisht Stadium, Sochi     
+* Semi Finals                                                    :SemiFinals:
+** 61. Winner Match 57  - Winner Match 58    
+    <2018-07-10 21:00> 
+    Saint Petersburg Stadium 
+** 62. Winner Match 59  - Winner Match 60    
+    <2018-07-11 21:00> 
+    Luzhniki Stadium, Moscow 
+* Third Place Match                                         :ThirdPlaceMatch:
+** 63. Losers Match 61  - Losers Match 62    
+    <2018-07-14 17:00> 
+    Saint Petersburg Stadium 
+* Final                                                               :Final:
+** 64. Winner Match 61  - Winner Match 62    
+    <2018-07-15 So 23:00> 
+    Luzhniki Stadium, Moscow 

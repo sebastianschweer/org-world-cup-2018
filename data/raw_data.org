@@ -1,0 +1,65 @@
+| Match Number | Home Team       | Away Team         | Date             | Location                 | Group   |   Round Number |
+|            1 | Russia          | Saudi Arabia      | 14/06/2018 18:00 | Luzhniki Stadium, Moscow | Group A |              1 |
+|            2 | Egypt           | Uruguay           | 15/06/2018 15:00 | Ekaterinburg Stadium     | Group A |              1 |
+|            3 | Morocco         | Iran              | 15/06/2018 18:00 | Saint Petersburg Stadium | Group B |              1 |
+|            4 | Portugal        | Spain             | 15/06/2018 21:00 | Fisht Stadium, Sochi     | Group B |              1 |
+|            5 | France          | Australia         | 16/06/2018 13:00 | Kazan Arena              | Group C |              1 |
+|            7 | Argentina       | Iceland           | 16/06/2018 16:00 | Otkrytiye Arena, Moscow  | Group D |              1 |
+|            6 | Peru            | Denmark           | 16/06/2018 19:00 | Saransk Stadium          | Group C |              1 |
+|            8 | Croatia         | Nigeria           | 16/06/2018 22:00 | Kaliningrad Stadium      | Group D |              1 |
+|           10 | Costa Rica      | Serbia            | 17/06/2018 15:00 | Samara Stadium           | Group E |              1 |
+|           11 | Germany         | Mexico            | 17/06/2018 18:00 | Luzhniki Stadium, Moscow | Group F |              1 |
+|            9 | Brazil          | Switzerland       | 17/06/2018 21:00 | Rostov-on-Don Stadium    | Group E |              1 |
+|           12 | Sweden          | Korea Republic    | 18/06/2018 15:00 | Nizhny Novgorod Stadium  | Group F |              1 |
+|           13 | Belgium         | Panama            | 18/06/2018 18:00 | Fisht Stadium, Sochi     | Group G |              1 |
+|           14 | Tunisia         | England           | 18/06/2018 21:00 | Volgograd Stadium        | Group G |              1 |
+|           16 | Colombia        | Japan             | 19/06/2018 15:00 | Saransk Stadium          | Group H |              1 |
+|           15 | Poland          | Senegal           | 19/06/2018 18:00 | Otkrytiye Arena, Moscow  | Group H |              1 |
+|           17 | Russia          | Egypt             | 19/06/2018 21:00 | Saint Petersburg Stadium | Group A |              2 |
+|           19 | Portugal        | Morocco           | 20/06/2018 15:00 | Luzhniki Stadium, Moscow | Group B |              2 |
+|           18 | Uruguay         | Saudi Arabia      | 20/06/2018 18:00 | Rostov-on-Don Stadium    | Group A |              2 |
+|           20 | Iran            | Spain             | 20/06/2018 21:00 | Kazan Arena              | Group B |              2 |
+|           22 | Denmark         | Australia         | 21/06/2018 15:00 | Samara Stadium           | Group C |              2 |
+|           21 | France          | Peru              | 21/06/2018 18:00 | Ekaterinburg Stadium     | Group C |              2 |
+|           23 | Argentina       | Croatia           | 21/06/2018 21:00 | Nizhny Novgorod Stadium  | Group D |              2 |
+|           25 | Brazil          | Costa Rica        | 22/06/2018 15:00 | Saint Petersburg Stadium | Group E |              2 |
+|           24 | Nigeria         | Iceland           | 22/06/2018 18:00 | Volgograd Stadium        | Group D |              2 |
+|           26 | Serbia          | Switzerland       | 22/06/2018 21:00 | Kaliningrad Stadium      | Group E |              2 |
+|           29 | Belgium         | Tunisia           | 23/06/2018 15:00 | Otkrytiye Arena, Moscow  | Group G |              2 |
+|           28 | Korea Republic  | Mexico            | 23/06/2018 18:00 | Rostov-on-Don Stadium    | Group F |              2 |
+|           27 | Germany         | Sweden            | 23/06/2018 21:00 | Fisht Stadium, Sochi     | Group F |              2 |
+|           30 | England         | Panama            | 24/06/2018 15:00 | Nizhny Novgorod Stadium  | Group G |              2 |
+|           32 | Japan           | Senegal           | 24/06/2018 18:00 | Ekaterinburg Stadium     | Group H |              2 |
+|           31 | Poland          | Colombia          | 24/06/2018 21:00 | Kazan Arena              | Group H |              2 |
+|           33 | Uruguay         | Russia            | 25/06/2018 17:00 | Samara Stadium           | Group A |              3 |
+|           34 | Saudi Arabia    | Egypt             | 25/06/2018 17:00 | Volgograd Stadium        | Group A |              3 |
+|           35 | Iran            | Portugal          | 25/06/2018 21:00 | Saransk Stadium          | Group B |              3 |
+|           36 | Spain           | Morocco           | 25/06/2018 21:00 | Kaliningrad Stadium      | Group B |              3 |
+|           37 | Denmark         | France            | 26/06/2018 17:00 | Luzhniki Stadium, Moscow | Group C |              3 |
+|           38 | Australia       | Peru              | 26/06/2018 17:00 | Fisht Stadium, Sochi     | Group C |              3 |
+|           39 | Nigeria         | Argentina         | 26/06/2018 21:00 | Saint Petersburg Stadium | Group D |              3 |
+|           40 | Iceland         | Croatia           | 26/06/2018 21:00 | Rostov-on-Don Stadium    | Group D |              3 |
+|           44 | Mexico          | Sweden            | 27/06/2018 17:00 | Ekaterinburg Stadium     | Group F |              3 |
+|           43 | Korea Republic  | Germany           | 27/06/2018 17:00 | Kazan Arena              | Group F |              3 |
+|           41 | Serbia          | Brazil            | 27/06/2018 21:00 | Otkrytiye Arena, Moscow  | Group E |              3 |
+|           42 | Switzerland     | Costa Rica        | 27/06/2018 21:00 | Nizhny Novgorod Stadium  | Group E |              3 |
+|           47 | Japan           | Poland            | 28/06/2018 17:00 | Volgograd Stadium        | Group H |              3 |
+|           48 | Senegal         | Colombia          | 28/06/2018 17:00 | Samara Stadium           | Group H |              3 |
+|           46 | Panama          | Tunisia           | 28/06/2018 21:00 | Saransk Stadium          | Group G |              3 |
+|           45 | England         | Belgium           | 28/06/2018 21:00 | Kaliningrad Stadium      | Group G |              3 |
+|           50 | Winner Group C  | Runner-up Group D | 30/06/2018 17:00 | Kazan Arena              |         |    Round of 16 |
+|           49 | Winner Group A  | Runner-up Group B | 30/06/2018 21:00 | Fisht Stadium, Sochi     |         |    Round of 16 |
+|           51 | Winner Group B  | Runner-up Group A | 01/07/2018 17:00 | Luzhniki Stadium, Moscow |         |    Round of 16 |
+|           52 | Winner Group D  | Runner-up Group C | 01/07/2018 21:00 | Nizhny Novgorod Stadium  |         |    Round of 16 |
+|           53 | Winner Group E  | Runner-up Group F | 02/07/2018 17:00 | Samara Stadium           |         |    Round of 16 |
+|           54 | Winner Group G  | Runner-up Group H | 02/07/2018 21:00 | Rostov-on-Don Stadium    |         |    Round of 16 |
+|           55 | Winner Group F  | Runner-up Group E | 03/07/2018 17:00 | Saint Petersburg Stadium |         |    Round of 16 |
+|           56 | Winner Group H  | Runner-up Group G | 03/07/2018 21:00 | Otkrytiye Arena, Moscow  |         |    Round of 16 |
+|           57 | Winner Match 49 | Winner Match 50   | 06/07/2018 17:00 | Nizhny Novgorod Stadium  |         | Quarter Finals |
+|           58 | Winner Match 53 | Winner Match 54   | 06/07/2018 21:00 | Kazan Arena              |         | Quarter Finals |
+|           60 | Winner Match 55 | Winner Match 56   | 07/07/2018 17:00 | Samara Stadium           |         | Quarter Finals |
+|           59 | Winner Match 51 | Winner Match 52   | 07/07/2018 21:00 | Fisht Stadium, Sochi     |         | Quarter Finals |
+|           61 | Winner Match 57 | Winner Match 58   | 10/07/2018 21:00 | Saint Petersburg Stadium |         |    Semi Finals |
+|           62 | Winner Match 59 | Winner Match 60   | 11/07/2018 21:00 | Luzhniki Stadium, Moscow |         |    Semi Finals |
+|           63 | Losers Match 61 | Losers Match 62   | 14/07/2018 17:00 | Saint Petersburg Stadium |         |         Finals |
+|           64 | Winner Match 61 | Winner Match 62   | 15/07/2018 18:00 | Luzhniki Stadium, Moscow |         |         Finals |

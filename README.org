@@ -1,0 +1,23 @@
+* Info
+
+** Schedule imported from https://fixturedownload.com/download/fifa-world-cup-2018-RussianStandardTime.csv
+** Schedule verified from https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+** Directly influenced by https://github.com/ruediger/org-world-cup2014
+** All times for Moscow Time
+
+Use the following function to change it.  E.g., set =n= to -1 hour for
+Central European Summer Time (UTC+2).  Copy code block to org-world-cup-2018.org and use =C-c= to eval it.
+
+#+HEADERS: :var n=-1
+#+begin_src emacs-lisp :results silent
+(save-excursion
+ (goto-char (point-min))
+  (while (re-search-forward "[[<]" nil t)
+    (when (org-at-timestamp-p t)
+      (org-timestamp-change n 'hour))))
+#+end_src
+** =[[https://en.wikipedia.org/wiki/File:Soccer_ball.svg][football.svg]]= can be used as a category icon.
+It is a 16\times16 GFDL licensed SVG file.  Add =("Football"
+"PATH-TO-FOOTBALL.SVG" nil nil :ascent center)= to
+=org-agenda-category-icon-alist= to have org-mode display it in the
+Agenda next to the Football category.
