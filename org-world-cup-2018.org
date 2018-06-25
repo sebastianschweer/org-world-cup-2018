@@ -129,7 +129,7 @@ Costa Rica, Serbia, Brazil, Switzerland
 ** 43. Korea Republic   - Germany            
     <2018-06-27 17:00> 
     Kazan Arena              
-* Group G                                                            :GroupE:
+* Group G                                                            :GroupG:
 Belgium, Panama, Tunisia, England
 ** 13. Belgium          - Panama             
     <2018-06-18 18:00> 
