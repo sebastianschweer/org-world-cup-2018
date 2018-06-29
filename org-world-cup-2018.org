@@ -184,13 +184,13 @@ Belgium, Panama, Tunisia, England
 ** 53. Brazil           - Mexico             
     <2018-07-02 17:00> 
     Samara Stadium           
-** 54. Winner Group G   - Runner-up Group H  
+** 54. Belgium          - Japan              
     <2018-07-02 21:00> 
     Rostov-on-Don Stadium    
 ** 55. Sweden           - Switzerland        
     <2018-07-03 17:00> 
     Saint Petersburg Stadium 
-** 56. Winner Group H   - Runner-up Group G  
+** 56. Colombia         - England            
     <2018-07-03 21:00> 
     Otkrytiye Arena, Moscow  
 * Quarter Finals                                              :QuarterFinals:
