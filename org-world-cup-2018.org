@@ -207,17 +207,17 @@ Belgium, Panama, Tunisia, England
     <2018-07-07 21:00> 
     Fisht Stadium, Sochi     
 * Semi Finals                                                    :SemiFinals:
-** 61. Winner Match 57  - Winner Match 58    
+** 61. France           - Belgium            
     <2018-07-10 21:00> 
     Saint Petersburg Stadium 
-** 62. Winner Match 59  - Winner Match 60    
+** 62. Croatia          - England            
     <2018-07-11 21:00> 
     Luzhniki Stadium, Moscow 
 * Third Place Match                                         :ThirdPlaceMatch:
-** 63. Losers Match 61  - Losers Match 62    
+** 63. Belgium          - Losers Match 62    
     <2018-07-14 17:00> 
     Saint Petersburg Stadium 
 * Final                                                               :Final:
-** 64. Winner Match 61  - Winner Match 62    
+** 64. France           - Winner Match 62    
     <2018-07-15 So 23:00> 
     Luzhniki Stadium, Moscow 
